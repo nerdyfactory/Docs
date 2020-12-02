@@ -46,3 +46,7 @@ if (bestProduct) {
 
 #### 4. Test, test and test
 Don't keep the bugs which anyone can find with a single try. It makes you less reliable as a developer as well as the team. Any change you've made can lead unexpected bug so you should have a test at least once for the core functionalities even if you didn't make a change for them. Writing test script for the core functionalities is good way to prevent potential bug from the change.
+
+
+#### 5. Configure your editor
+One of the major job for developers is to understand the code someone else wrote. Instant navigating between files to find function or variable definations will save your time a lot when you study other developer's code. I personally recommend to use [vscode](https://code.visualstudio.com/) as it's so popular nowdays and there are many plugins available.
