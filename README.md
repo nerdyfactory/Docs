@@ -1,3 +1,4 @@
 # Docs
 
-[How to work](howtowork.md)
+[Basic workflow](workflow.md)
+[How to write code](howtowritecode.md)
